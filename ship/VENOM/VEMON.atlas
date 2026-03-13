@@ -1,0 +1,150 @@
+VEMON.png
+size: 1818, 1616
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+ship0
+  bounds: 0, 0, 202, 202
+ship1
+  bounds: 202, 0, 202, 202
+ship2
+  bounds: 404, 0, 202, 202
+ship3
+  bounds: 606, 0, 202, 202
+ship4
+  bounds: 808, 0, 202, 202
+ship5
+  bounds: 1010, 0, 202, 202
+ship6
+  bounds: 1212, 0, 202, 202
+ship7
+  bounds: 1414, 0, 202, 202
+ship8
+  bounds: 1616, 0, 202, 202
+ship9
+  bounds: 0, 202, 202, 202
+ship11
+  bounds: 202, 202, 202, 202
+ship12
+  bounds: 404, 202, 202, 202
+ship13
+  bounds: 606, 202, 202, 202
+ship14
+  bounds: 808, 202, 202, 202
+ship15
+  bounds: 1010, 202, 202, 202
+ship16
+  bounds: 1212, 202, 202, 202
+ship17
+  bounds: 1414, 202, 202, 202
+ship18
+  bounds: 1616, 202, 202, 202
+ship19
+  bounds: 0, 404, 202, 202
+ship20
+  bounds: 202, 404, 202, 202
+ship22
+  bounds: 404, 404, 202, 202
+ship23
+  bounds: 606, 404, 202, 202
+ship24
+  bounds: 808, 404, 202, 202
+ship25
+  bounds: 1010, 404, 202, 202
+ship26
+  bounds: 1212, 404, 202, 202
+ship27
+  bounds: 1414, 404, 202, 202
+ship28
+  bounds: 1616, 404, 202, 202
+ship29
+  bounds: 0, 606, 202, 202
+ship30
+  bounds: 202, 606, 202, 202
+ship31
+  bounds: 404, 606, 202, 202
+ship33
+  bounds: 606, 606, 202, 202
+ship34
+  bounds: 808, 606, 202, 202
+ship35
+  bounds: 1010, 606, 202, 202
+ship36
+  bounds: 1212, 606, 202, 202
+ship37
+  bounds: 1414, 606, 202, 202
+ship38
+  bounds: 1616, 606, 202, 202
+ship39
+  bounds: 0, 808, 202, 202
+ship40
+  bounds: 202, 808, 202, 202
+ship41
+  bounds: 404, 808, 202, 202
+ship42
+  bounds: 606, 808, 202, 202
+ship44
+  bounds: 808, 808, 202, 202
+ship45
+  bounds: 1010, 808, 202, 202
+ship46
+  bounds: 1212, 808, 202, 202
+ship47
+  bounds: 1414, 808, 202, 202
+ship48
+  bounds: 1616, 808, 202, 202
+ship49
+  bounds: 0, 1010, 202, 202
+ship50
+  bounds: 202, 1010, 202, 202
+ship51
+  bounds: 404, 1010, 202, 202
+ship52
+  bounds: 606, 1010, 202, 202
+ship53
+  bounds: 808, 1010, 202, 202
+ship55
+  bounds: 1010, 1010, 202, 202
+ship56
+  bounds: 1212, 1010, 202, 202
+ship57
+  bounds: 1414, 1010, 202, 202
+ship58
+  bounds: 1616, 1010, 202, 202
+ship59
+  bounds: 0, 1212, 202, 202
+ship60
+  bounds: 202, 1212, 202, 202
+ship61
+  bounds: 404, 1212, 202, 202
+ship62
+  bounds: 606, 1212, 202, 202
+ship63
+  bounds: 808, 1212, 202, 202
+ship64
+  bounds: 1010, 1212, 202, 202
+ship66
+  bounds: 1212, 1212, 202, 202
+ship67
+  bounds: 1414, 1212, 202, 202
+ship68
+  bounds: 1616, 1212, 202, 202
+ship69
+  bounds: 0, 1414, 202, 202
+ship70
+  bounds: 202, 1414, 202, 202
+ship71
+  bounds: 404, 1414, 202, 202
+ship72
+  bounds: 606, 1414, 202, 202
+ship73
+  bounds: 808, 1414, 202, 202
+ship74
+  bounds: 1010, 1414, 202, 202
+ship75
+  bounds: 1212, 1414, 202, 202
+ship77
+  bounds: 1414, 1414, 202, 202
+ship78
+  bounds: 1616, 1414, 202, 202
