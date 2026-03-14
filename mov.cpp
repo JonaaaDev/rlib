@@ -4,7 +4,7 @@
 
 struct Ship
 {
-    Texture2D ship_disagne;
+    Texture2D ship_design;
     int TotalFrames;
     int totalCol;
     float sizeX;
@@ -51,6 +51,10 @@ int main() {
 
     // 2. Bucle de juego principal
     while (!WindowShouldClose()) {    // Detecta si se pulsa ESC o el botón de cerrar
+        Vector2 mouse_pisition = GetMousePosition();
+
+        if (IsKeyPressed(KEY_A)) nave_selecionada = 0;
+        if (IsKeyPressed(KEY_B)) nave_selecionada = 1;
 
         Ship &nave_actual = listaDeNaves[nave_selecionada];
         float gradosPorFrame = 360.0f / nave_actual.TotalFrames;
@@ -59,10 +63,9 @@ int main() {
         Vector2 origenGiro = { nave_actual.sizeX / 2.0f, nave_actual.sizeY / 2.0f };
 
 
-        if (IsKeyPressed(KEY_A)) nave_selecionada = 0;
-        if (IsKeyPressed(KEY_B)) nave_selecionada = 1;
+        
 
-        Vector2 mouse_pisition = GetMousePosition();
+        
         // --- AQUÍ IRÍA LA LÓGICA DE ACTUALIZACIÓN ---
 
         float angulo = atan2f(mouse_pisition.y - ship_position.y, mouse_pisition.x - ship_position.x ) * RAD2DEG;
